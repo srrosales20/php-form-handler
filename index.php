@@ -3,7 +3,7 @@
     <title>Worlds Smallest Handler</title>
   </head>
   <body>
-    <h1>Worlds Smallest Handler</h1>
+    <h1>Worlds Smallest Handler!</h1>
     <?php 
   if(isset($_POST["FirstName"])){//show data
     echo $_POST["FirstName"];
